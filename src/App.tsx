@@ -32,7 +32,7 @@ function App() {
           {/* <Route path = "/engmed1" element = {<Third_EN />} /> */}
              {/* <Route path = "/engmed1" element = {<S />} />
           <Route path = "/engmedgroc1" element = {<New/>}/> */} 
-          <Route path = "/spanmed1" element = {<Third_SP />} />
+          <Route path = "/medspan1" element = {<Third_SP />} />
           {/* <Route path = "/hbosolar" element = {<Forth_EN />} />
           <Route path = "/spanfe1" element = {<Forth_SP />} />
           <Route path = "/engerc1" element = {<Fifth_EN />} />
